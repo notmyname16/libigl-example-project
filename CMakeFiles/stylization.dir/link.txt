@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstylization.a CMakeFiles/stylization.dir/stylization/stylization.cpp.o
+/usr/bin/ranlib libstylization.a
